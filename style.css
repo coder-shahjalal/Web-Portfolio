@@ -78,6 +78,7 @@ section{
     border-left: 7px solid ;
     border-image: linear-gradient(180deg, lightsalmon,tomato);
     border-image-slice: 1;
+    background-color: white;
 
 }
 
@@ -85,7 +86,11 @@ section{
     border-left: 7px solid ;
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
+    padding-bottom: ;
 
 }
 
-footer{text-align: center;}
+footer{
+   text-align: center;
+}
+
